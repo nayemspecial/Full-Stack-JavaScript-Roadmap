@@ -1,0 +1,18 @@
+console.log(Math.PI);
+let num = 3.155;
+console.log( Math.round(num) );
+console.log( Math.floor(num) );
+console.log( Math.ceil(num) );
+console.log( Math.max(-3, -4, 0, 2, 4) );
+console.log( Math.min(-3, -4, 0, 2, 4) );
+console.log( Math.abs(-10 ));
+console.log( Math.sign(-10 ));
+console.log( Math.sign(0 ));
+console.log( Math.sign(10 ));
+console.log( Math.sqrt( 4 ));
+console.log( Math.sqrt( 100 ));
+console.log( Math.cbrt( 125 ));
+console.log( Math.pow( 10, 3 ));
+console.log( Math.log( 1 ));
+console.log( Math.sin( 90 * (Math.PI/180) ));
+console.log( Math.floor(Math.random() * 11) );
